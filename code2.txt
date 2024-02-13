@@ -1,0 +1,706 @@
+/* Group 8 */
+
+position: absolute;
+width: 1542px;
+height: 1695px;
+left: 101px;
+top: 289px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 972px;
+height: 507px;
+left: 634px;
+top: 289px;
+
+background: #E5D8FF;
+border: 6px solid #FFFFFF;
+box-shadow: inset 3px 5px 27px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+
+
+/* It's not only writers who can benefit from this free online tool. If you're a programmer who's working on a ...... */
+
+position: absolute;
+width: 922px;
+height: 83px;
+left: 668px;
+top: 318px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 29px;
+line-height: 178.7%;
+/* or 52px */
+
+color: #6F7373;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 337px;
+height: 145.48px;
+left: 101px;
+top: 933px;
+
+background: #929DFF;
+box-shadow: 0px 9px 31px rgba(0, 0, 0, 0.4);
+border-radius: 11px;
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 337px;
+height: 145.48px;
+left: 497px;
+top: 933px;
+
+background: #734CF2;
+box-shadow: 0px 9px 31px rgba(0, 0, 0, 0.4);
+border-radius: 11px;
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 337px;
+height: 145px;
+left: 893px;
+top: 933px;
+
+background: #D288FF;
+box-shadow: 0px 9px 31px rgba(0, 0, 0, 0.4);
+border-radius: 11px;
+
+
+/* Participated */
+
+position: absolute;
+width: 237px;
+height: 36px;
+left: 920px;
+top: 953px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 178.7%;
+/* or 52px */
+letter-spacing: 0.04em;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 337px;
+height: 145.48px;
+left: 1289px;
+top: 933px;
+
+background: #000000;
+box-shadow: 0px 9px 31px rgba(0, 0, 0, 0.4);
+border-radius: 11px;
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 1542px;
+height: 717px;
+left: 101px;
+top: 1267px;
+
+background: #483EFF;
+border-radius: 21px;
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 1004px;
+height: 656px;
+left: 612px;
+top: 1298px;
+
+background: #FFFFFF;
+border-radius: 19px;
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 397px;
+height: 133px;
+left: 153px;
+top: 1340px;
+
+background: #BCE0F6;
+box-shadow: 0px 6px 35px rgba(0, 0, 0, 0.39);
+border-radius: 22px;
+
+
+/* Rectangle 12 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 397px;
+height: 133px;
+left: 153px;
+top: 1555px;
+
+border: 5px solid #FFFFFF;
+border-radius: 22px;
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 397px;
+height: 133px;
+left: 153px;
+top: 1770px;
+
+border: 5px solid #FFFFFF;
+border-radius: 22px;
+
+
+/* Total Question’s */
+
+position: absolute;
+width: 244px;
+height: 36px;
+left: 129px;
+top: 953px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 178.7%;
+/* or 52px */
+letter-spacing: 0.04em;
+
+color: #FFFFFF;
+
+
+
+/* Total Answer’s */
+
+position: absolute;
+width: 237px;
+height: 36px;
+left: 524px;
+top: 953px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 178.7%;
+/* or 52px */
+letter-spacing: 0.04em;
+
+color: #FFFFFF;
+
+
+
+/* 200,000 */
+
+position: absolute;
+width: 142px;
+height: 35px;
+left: 129px;
+top: 1011px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 178.7%;
+/* or 50px */
+letter-spacing: 0.04em;
+
+color: #FFFFFF;
+
+
+
+/* 105,000 */
+
+position: absolute;
+width: 142px;
+height: 35px;
+left: 524px;
+top: 1011px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 178.7%;
+/* or 50px */
+letter-spacing: 0.04em;
+
+color: #FFFFFF;
+
+
+
+/* 10,000 */
+
+position: absolute;
+width: 142px;
+height: 35px;
+left: 920px;
+top: 1011px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 178.7%;
+/* or 50px */
+letter-spacing: 0.04em;
+
+color: #FFFFFF;
+
+
+
+/* 6,000 */
+
+position: absolute;
+width: 142px;
+height: 35px;
+left: 1316px;
+top: 1011px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 178.7%;
+/* or 50px */
+letter-spacing: 0.04em;
+
+color: #FFFFFF;
+
+
+
+/* Total Passed */
+
+position: absolute;
+width: 237px;
+height: 36px;
+left: 1316px;
+top: 953px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 29px;
+line-height: 178.7%;
+/* or 52px */
+letter-spacing: 0.04em;
+
+color: #FFFFFF;
+
+
+
+/* Group 1 */
+
+position: absolute;
+width: 456px;
+height: 507px;
+left: 129px;
+top: 289px;
+
+filter: drop-shadow(4px 7px 32px rgba(0, 0, 0, 0.44));
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 456px;
+height: 507px;
+left: 129px;
+top: 289px;
+
+background: #D9D9D9;
+border-radius: 20px;
+
+
+/* image 4 */
+
+position: absolute;
+width: 456px;
+height: 507px;
+left: 129px;
+top: 289px;
+
+background: url(image.png);
+border-radius: 20px;
+
+
+/* YOUR INFO */
+
+position: absolute;
+width: 196px;
+height: 43px;
+left: 249px;
+top: 1378px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 178.7%;
+/* or 63px */
+letter-spacing: 0.04em;
+
+color: #000000;
+
+
+
+/* BOOKMARKS */
+
+position: absolute;
+width: 234px;
+height: 43px;
+left: 234px;
+top: 1591px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 178.7%;
+/* or 63px */
+letter-spacing: 0.04em;
+
+color: #FFFFFF;
+
+
+
+/* SETTINGS */
+
+position: absolute;
+width: 176px;
+height: 43px;
+left: 263px;
+top: 1806px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 178.7%;
+/* or 63px */
+letter-spacing: 0.04em;
+
+color: #FFFFFF;
+
+
+
+/* Your information */
+
+position: absolute;
+width: 370px;
+height: 36px;
+left: 666px;
+top: 1370px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 38px;
+line-height: 46px;
+letter-spacing: 0.105em;
+
+color: #04285A;
+
+
+
+/* Name */
+
+position: absolute;
+width: 85px;
+height: 26px;
+left: 696px;
+top: 1463px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 33px;
+letter-spacing: 0.105em;
+
+color: #04285A;
+
+
+
+/* Atul Singhal */
+
+position: absolute;
+width: 153px;
+height: 22px;
+left: 846px;
+top: 1467px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+letter-spacing: 0.05em;
+
+color: #143565;
+
+
+
+/* : */
+
+position: absolute;
+width: 11px;
+height: 19px;
+left: 810px;
+top: 1470px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 78.69%;
+/* or 20px */
+letter-spacing: 0.105em;
+
+color: #04285A;
+
+
+
+/* Email */
+
+position: absolute;
+width: 88px;
+height: 26px;
+left: 696px;
+top: 1526px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 33px;
+letter-spacing: 0.105em;
+
+color: #04285A;
+
+
+
+/* atul@gmail.com */
+
+position: absolute;
+width: 216px;
+height: 22px;
+left: 843px;
+top: 1530px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+letter-spacing: 0.05em;
+
+color: #143565;
+
+
+
+/* : */
+
+position: absolute;
+width: 11px;
+height: 23px;
+left: 810px;
+top: 1531px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 78.69%;
+/* or 20px */
+letter-spacing: 0.105em;
+
+color: #04285A;
+
+
+
+/* Phone */
+
+position: absolute;
+width: 99px;
+height: 26px;
+left: 696px;
+top: 1591px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 33px;
+letter-spacing: 0.105em;
+
+color: #04285A;
+
+
+
+/* +91 8131424888 */
+
+position: absolute;
+width: 216px;
+height: 22px;
+left: 846px;
+top: 1595px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+letter-spacing: 0.05em;
+
+color: #143565;
+
+
+
+/* : */
+
+position: absolute;
+width: 11px;
+height: 23px;
+left: 810px;
+top: 1596px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 78.69%;
+/* or 20px */
+letter-spacing: 0.105em;
+
+color: #04285A;
+
+
+
+/* Marks */
+
+position: absolute;
+width: 99px;
+height: 26px;
+left: 696px;
+top: 1656px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 28px;
+line-height: 33px;
+letter-spacing: 0.105em;
+
+color: #04285A;
+
+
+
+/* 500.00 */
+
+position: absolute;
+width: 90px;
+height: 22px;
+left: 846px;
+top: 1660px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+letter-spacing: 0.05em;
+
+color: #143565;
+
+
+
+/* : */
+
+position: absolute;
+width: 11px;
+height: 23px;
+left: 810px;
+top: 1661px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 26px;
+line-height: 78.69%;
+/* or 20px */
+letter-spacing: 0.105em;
+
+color: #04285A;
+
+
+
+/* Rectangle 16 */
+
+position: absolute;
+width: 207px;
+height: 78px;
+left: calc(50% - 207px/2 + 595.5px);
+top: 1840px;
+
+background: #000000;
+border-radius: 9px;
+
+
+/* Next */
+
+position: absolute;
+width: 67px;
+height: 28px;
+left: 1397px;
+top: 1862px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 35px;
+letter-spacing: 0.05em;
+
+color: #FFFFFF;
+
+
+
+/* Arrow 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 38px;
+height: 0px;
+left: 1476px;
+top: 1880px;
+
+border: 3px solid #FFFFFF;

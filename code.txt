@@ -1,0 +1,227 @@
+/* Group 7 */
+
+position: absolute;
+width: 1728px;
+height: 127px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 14 */
+
+position: absolute;
+width: 1728px;
+height: 127px;
+left: 0px;
+top: 0px;
+
+background: #6F6AF7;
+
+
+/* dappr */
+
+position: absolute;
+width: 215px;
+height: 63px;
+left: 44px;
+top: 27px;
+
+font-family: 'Delius Unicase';
+font-style: normal;
+font-weight: 700;
+font-size: 61.43px;
+line-height: 79px;
+
+color: #FFFFFF
+
+
+
+/* Home */
+
+position: absolute;
+width: 102px;
+height: 33px;
+left: 412px;
+top: 42px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36.43px;
+line-height: 47px;
+
+color: #FFFFFF;
+
+
+
+/* About Us */
+
+position: absolute;
+width: 157px;
+height: 36px;
+left: 561px;
+top: 41px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36.43px;
+line-height: 47px;
+
+color: #FFFFFF;
+
+
+
+/* Information */
+
+position: absolute;
+width: 199px;
+height: 36px;
+left: 764px;
+top: 41px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36.43px;
+line-height: 47px;
+
+color: #FFFFFF;
+
+
+
+/* More */
+
+position: absolute;
+width: 89px;
+height: 36px;
+left: 1009px;
+top: 41px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 36.43px;
+line-height: 47px;
+
+color: #FFFFFF;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 63.54%;
+right: 36.01%;
+top: 3.37%;
+bottom: 95.95%;
+
+background: #FFFFFF;
+transform: rotate(-90deg);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 314px;
+height: 57px;
+left: 1171px;
+top: 36px;
+
+background: #FFFFFF;
+border-radius: 63px;
+
+
+/* Search.... */
+
+position: absolute;
+width: 119px;
+height: 23px;
+left: 1196px;
+top: 48px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24.43px;
+line-height: 32px;
+
+color: #9F9F9F;
+
+
+
+/* search */
+
+position: absolute;
+width: 26px;
+height: 26px;
+left: 1440px;
+top: 51px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #ADADAD;
+
+
+/* Vector */
+
+position: absolute;
+left: 93.06%;
+right: 3.07%;
+top: 1.87%;
+bottom: 95.88%;
+
+background: #FFFFFF;
+
+
+
+
+<View
+android:id="@+id/vector"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_alignParentLeft="true"
+android:layout_alignParentRight="true"
+android:layout_alignParentTop="true"
+android:layout_alignParentBottom="true"
+android:background="#FFFFFF"
+ />
+
+/* Vector */
+
+position: absolute;
+left: 93.06%;
+right: 3.07%;
+top: 1.87%;
+bottom: 95.88%;
+
+background: #FFFFFF;
+
+
+
+/* Your information */
+
+position: absolute;
+width: 370px;
+height: 36px;
+left: 666px;
+top: 1370px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 38px;
+line-height: 46px;
+letter-spacing: 0.105em;
+
+color: #04285A;
+
